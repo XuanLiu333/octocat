@@ -4,7 +4,7 @@ description: "A blog about Xuan Liu ..."
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://victorvoid.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
+username: Xuan Liu
 user_title: Lorem Ipsum - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
